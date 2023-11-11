@@ -6,6 +6,11 @@
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amschel99/minimalist-carousel.git"
+  },
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
