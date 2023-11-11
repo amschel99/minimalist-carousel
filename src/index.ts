@@ -1,2 +1,2 @@
-import  Carousel from "../src/components/carousel/index"
+import  Carousel from "./ccomponents/carousel/index"
 export {Carousel}
